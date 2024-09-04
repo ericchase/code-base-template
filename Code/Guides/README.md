@@ -1,0 +1,1 @@
+I'm using the word "guide" here very loosely. These could readme files, nicely written documents, folders of documents, projects that demonstrate a concept or api usage. I don't add to this folder very often, but it's great to keep examples of how to use complicated apis and programs.

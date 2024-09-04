@@ -1,0 +1,1 @@
+The `Code` folder is the top level directory for all software related files and folders. You might store this folder directly under the `C:\` drive or `/` folder. The idea is to keep the file path as short and manageable as possible.
